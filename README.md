@@ -15,11 +15,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://yesinwoow.github.io/Social-media/">
-    <img src="https://img.shields.io/badge/🚀 Live Demo-Click Here-blue?style=for-the-badge">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/yesinwoow/Social-media?style=for-the-badge&color=blue">
