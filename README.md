@@ -4,9 +4,6 @@
 </p>
 
 <!-- 🔥 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe!;Frontend+Developer+%7C+Creator;Building+modern+web+experiences!;Follow+for+more+🔥+projects">
-</p>
 
 <h1 align="center">🚀 yesin.woow</h1>
 
