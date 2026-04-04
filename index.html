@@ -5,31 +5,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>yesin.woow | Profile</title>
 
+  <!-- CSS -->
   <link rel="stylesheet" href="css/index.css">
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
 
-  <div class="container">
+  <!-- Particle Background -->
+  <div id="tsparticles"></div>
 
+  <div class="container">
     <div class="card">
+
       <img src="images/profile.png" class="profile-img">
 
-      <h1>yesin.woow</h1>
-      <p class="bio">My Official Social Media Profile</p>
+      <h1 id="name"></h1>
+      <p class="bio">Content Creator | Developer</p>
 
       <div class="links">
-        <a href="https://facebook.com/yesin.woow" class="facebook">Facebook</a>
-        <a href="https://instagram.com/yesinwoow" class="instagram">Instagram</a>
-        <a href="https://youtube.com/@yesin-woow" class="youtube">YouTube</a>
-        <a href="https://github.com/yesinwoow" class="github">GitHub</a>
+        <a href="https://facebook.com/yesin.woow"><i class="fab fa-facebook"></i> Facebook</a>
+        <a href="https://instagram.com/yesinwoow"><i class="fab fa-instagram"></i> Instagram</a>
+        <a href="https://youtube.com/@yesin-woow"><i class="fab fa-youtube"></i> YouTube</a>
+        <a href="https://github.com/yesinwoow"><i class="fab fa-github"></i> GitHub</a>
       </div>
+
     </div>
-
-    <footer>
-      © 2026 yesin.woow
-    </footer>
-
   </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"></script>
+  <script src="js/index.js"></script>
 
 </body>
 </html>
