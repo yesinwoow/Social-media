@@ -82,24 +82,11 @@ A **modern, interactive & aesthetic social media landing page** designed to show
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yesinwoow&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesinwoow&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yesinwoow&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesinwoow&theme=github-dark&area=true&hide_border=true">
-</p>
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yesinwoow&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesinwoow&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesinwoow&theme=tokyo-night&hide_border=true">
 </p>
 
 ---
