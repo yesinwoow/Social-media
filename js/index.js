@@ -1,39 +1,13 @@
-// Typing effect
-const text = "yesin.woow";
+// typing effect
+const text = "Yesin Arafat";
 let i = 0;
-const nameEl = document.getElementById("name");
+const el = document.getElementById("name");
 
-function typing() {
+function type() {
   if (i < text.length) {
-    nameEl.textContent += text.charAt(i);
+    el.textContent += text[i];
     i++;
-    setTimeout(typing, 120);
+    setTimeout(type, 120);
   }
 }
-typing();
-
-// Copy username
-function copyName() {
-  navigator.clipboard.writeText("yesin.woow");
-  alert("Copied Username!");
-}
-
-// Particles
-tsParticles.load("tsparticles", {
-  background: { color: "#0d1117" },
-  particles: {
-    number: { value: 60 },
-    color: { value: "#ffffff" },
-    links: {
-      enable: true,
-      color: "#ffffff",
-      distance: 150
-    },
-    move: {
-      enable: true,
-      speed: 2
-    },
-    size: { value: 3 },
-    opacity: { value: 0.5 }
-  }
-});
+type();
